@@ -1,6 +1,5 @@
 # Single-Cell-RNAseq-Data-Analysis
 
-Under Professor Ajai B. Kunnumakkara Cancer Biology Laboratory, Indian Institute of Technology, Guwahati, India
 
 - Used single cell RNA sequencing databases in cancerous tumours from various tissues (oral, breast) to identify the anomalous differential levels of gene expression due to excess cell division.
 
